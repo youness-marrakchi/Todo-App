@@ -40,7 +40,7 @@
 <br>
 
 <div class="container">
-		<p class="pp lead" style="text-align:left;font-size: 2rem;">Add A New Item <button id="button" style="float: right;" type="button" class="btn btn-info float-right">+</button></p>
+		<p class="pp lead" style="text-align:left;font-size: 2rem;">Add A New Task <button id="button" style="float: right;" type="button" class="btn btn-info float-right">+</button></p>
 
 	<!-- check home.php to understand it -->
 	<php echo $text ?>
